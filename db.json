@@ -1,0 +1,129 @@
+{
+  "users": [
+    {
+      "name": "Juma",
+      "number": "128",
+      "Gender": "0",
+      "computer_id": 1,
+      "id": 1
+    },
+    {
+      "name": "Amos",
+      "number": "7080",
+      "Gender": "0",
+      "computer_id": 2,
+      "id": 2
+    },
+    {
+      "name": "Chris",
+      "number": "1234",
+      "Gender": "0",
+      "computer_id": 5,
+      "id": 3
+    },
+    {
+      "name": "Agatha",
+      "number": "76",
+      "Gender": "1",
+      "computer_id": 3,
+      "id": 4
+    },
+    {
+      "name": "demus",
+      "number": "345",
+      "Gender": "0",
+      "computer_id": 14,
+      "id": 5
+    },
+    {
+      "name": "jonathan",
+      "number": "55",
+      "Gender": "0",
+      "computer_id": 1,
+      "id": 6
+    },
+    {
+      "name": "senkasi",
+      "number": "1900708830",
+      "Gender": "0",
+      "computer_id": 2,
+      "id": 7
+    }
+  ],
+  "computers": [
+    {
+      "name": "Computer1",
+      "details": "Dell",
+      "id": 1,
+      "booker_id": 6
+    },
+    {
+      "name": "computer2",
+      "details": "Dell",
+      "id": 2,
+      "booker_id": 7
+    },
+    {
+      "name": "computer3",
+      "details": "HP",
+      "id": 3,
+      "booker_id": 4
+    },
+    {
+      "name": "computer4",
+      "details": "Dell",
+      "id": 4
+    },
+    {
+      "name": "computer5",
+      "details": "Dell",
+      "id": 5
+    },
+    {
+      "name": "computer6",
+      "details": "Dell",
+      "id": 6
+    },
+    {
+      "name": "computer7",
+      "details": "Dell",
+      "id": 7
+    },
+    {
+      "name": "computer8",
+      "details": "HP",
+      "id": 8
+    },
+    {
+      "name": "computer9",
+      "details": "Dell",
+      "id": 9
+    },
+    {
+      "name": "computer10",
+      "details": "Dell",
+      "id": 10
+    },
+    {
+      "name": "computer11",
+      "details": "lenovo",
+      "id": 11
+    },
+    {
+      "name": "computer12",
+      "details": "Dell",
+      "id": 12
+    },
+    {
+      "name": "computer13",
+      "details": "Dell",
+      "id": 13
+    },
+    {
+      "name": "computer14",
+      "details": "Dell",
+      "id": 14,
+      "booker_id": 5
+    }
+  ]
+}
